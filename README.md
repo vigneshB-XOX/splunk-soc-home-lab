@@ -1,4 +1,4 @@
-# 🔐 Splunk SOC Home Lab — SSH Brute Force Detection
+1# 🔐 Splunk SOC Home Lab — SSH Brute Force Detection
 
 > Built a Splunk-based SOC home lab to detect SSH brute force attacks using real-time log monitoring, detection queries, and firewall response actions.
 
@@ -162,7 +162,7 @@ splunk-soc-home-lab/
 
 ## 👤 Author
 
-**Shakthi**  
+**Vignesh**  
 Aspiring SOC Analyst | Cybersecurity & Threat Detection  
 
 ---
