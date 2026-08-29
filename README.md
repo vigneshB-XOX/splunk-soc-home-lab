@@ -173,3 +173,4 @@ Aspiring SOC Analyst | Cybersecurity & Threat Detection
 - [Hydra - THC](https://github.com/vanhauser-thc/thc-hydra)
 - [Splunk Add-on for Unix and Linux](https://splunkbase.splunk.com/app/833)
 # splunk-hone-lab
+# splunk-soc-home-lab
